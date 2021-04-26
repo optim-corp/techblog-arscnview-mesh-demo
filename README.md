@@ -4,7 +4,7 @@
 
 ![capture.gif](./capture.gif)
 
-このリポジトリは OPTiM TECH BLOG 記事「ARKit と LiDAR で 3 次元空間認識して SceneKit でリアルタイム描画」のサンプルコードです．
+このリポジトリは [OPTiM TECH BLOG](https://tech-blog.optim.co.jp) 記事「ARKit と LiDAR で 3 次元空間認識して SceneKit でリアルタイム描画」のサンプルコードです．
 
 上記ブログ記事及びこのサンプルコードからは以下を学ぶことができます．
 
